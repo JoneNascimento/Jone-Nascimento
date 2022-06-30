@@ -4,7 +4,7 @@
 
 🤔   Explorando novas tecnologias e soluções para análise de dados;
 
-🎓   Estudando Data Science na FLAI ;
+🎓   Estudando Data Science na [FLAI](https://www.flai.com.br/dds/) ;
 
 🚀   Escopo do Curso Data Science
 
@@ -17,7 +17,7 @@
        Methodologies & Techniques: Data Cleaning, Data Manipulation, Data Mining (APIs, Web Scraping), Data Visualization, Data Pipelines, 
        Descriptive Statistics, Business Intelligence, Supervised and Unsupervised Machine Learning.
        
-🎓   Estudando AWS, Microsoft Azure, Google Cloud Platform e Oracle Cloud na The Cloud Bootcamp ;
+🎓   Estudando AWS, Microsoft Azure, Google Cloud Platform e Oracle Cloud na [The Cloud Bootcamp](https://app.thecloudbootcamp.com/enrollments) ;
 
 🚀   Escopo do Curso AWS
 
